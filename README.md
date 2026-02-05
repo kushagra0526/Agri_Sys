@@ -37,7 +37,7 @@ The seed bank management software is designed to help small and medium-sized far
 
 4. **Knowledge Sharing Platform**: The software can include a section for educational resources, workshops, and community discussions about organic farming and best practices.
 
-##Author
+## Author
 Kushagra Pratap Singh
 
 
